@@ -20,6 +20,45 @@ L'Agilité repose sur des [valeurs fondamentales](http://agilemanifesto.org/iso/
 
 Ces valeurs fondamentales guident notre approche dans la gestion de projet.
 
+### Les 12 Principes de l'Agilité
+
+Nous suivons également les 12 principes sous-jacents au Manifeste Agile, qui sont les suivants :
+
+1. Notre plus haute priorité est de satisfaire le client
+en livrant rapidement et régulièrement des fonctionnalités
+à grande valeur ajoutée.
+2. Accueillez positivement les changements de besoins,
+même tard dans le projet. Les processus Agiles
+exploitent le changement pour donner un avantage
+compétitif au client.
+3. Livrez fréquemment un logiciel opérationnel avec des
+cycles de quelques semaines à quelques mois et une
+préférence pour les plus courts.
+4. Les utilisateurs ou leurs représentants et les
+développeurs doivent travailler ensemble quotidiennement
+tout au long du projet.
+5. Réalisez les projets avec des personnes motivées.
+Fournissez-leur l’environnement et le soutien dont ils
+ont besoin et faites-leur confiance pour atteindre les
+objectifs fixés.
+6. La méthode la plus simple et la plus efficace pour
+transmettre de l’information à l'équipe de développement
+et à l’intérieur de celle-ci est le dialogue en face à face.
+7. Un logiciel opérationnel est la principale mesure d’avancement.
+8. Les processus Agiles encouragent un rythme de développement
+soutenable. Ensemble, les commanditaires, les développeurs
+et les utilisateurs devraient être capables de maintenir
+indéfiniment un rythme constant.
+9. Une attention continue à l'excellence technique et
+à une bonne conception renforce l’Agilité.
+10. La simplicité – c’est-à-dire l’art de minimiser la
+quantité de travail inutile – est essentielle.
+11. Les meilleures architectures, spécifications et
+conceptions émergent d'équipes autoorganisées.
+12. À intervalles réguliers, l'équipe réfléchit aux moyens
+de devenir plus efficace, puis règle et modifie son
+comportement en conséquence.
+
 ## Utilisation de SCRUM
 
 SCRUM est notre framework de gestion de projet Agile. Nous appliquerons les concepts SCRUM de manière adaptée à notre équipe de petite taille. Voici les éléments clés de SCRUM que nous intégrons dans notre processus :
